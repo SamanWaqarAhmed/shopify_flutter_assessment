@@ -1,4 +1,3 @@
-import '../constants/api_constants.dart';
 import '../model/product_category.dart';
 import '../model/product_model.dart';
 import '../model/product_page.dart';
