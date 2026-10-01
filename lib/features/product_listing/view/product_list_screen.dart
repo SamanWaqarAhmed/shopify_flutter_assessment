@@ -11,7 +11,7 @@ class ProductListScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('ShopWise'),
+        title: const Text('Shopify'),
         actions: const [FavoritesAction()],
       ),
       body: const Column(
