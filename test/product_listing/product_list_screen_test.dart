@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:get/get.dart' show Get;
+import 'package:get/get.dart' show Get, Inst, GetResetExt;
 import 'package:shopify/core/network/api_exception.dart';
 import 'package:shopify/features/favorites/controller/favorites_controller.dart';
 import 'package:shopify/features/product_listing/controller/providers.dart';
